@@ -1,3 +1,10 @@
 Create (VPC)
 Used 2 (AZ) 
 Create 2 Public subnet in different (AZ)
+create 2 instance in difernt public subnet
+create 2 EBS Volume for instance 
+create 2 sec group for 2 instance
+create IGW (Internet gateway)
+Create 2 private subnet in different (AZ)
+create RDS in private Subent
+create standby RDS in private Subent
